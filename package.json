@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "startL06Server": "node L06/server/server.js"
+    "start": "node L06/server/server.js"
   },
   "repository": {
     "type": "git",
